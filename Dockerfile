@@ -1,4 +1,4 @@
-FROM docker pull msaletta/ubuntu16
+FROM msaletta/ubuntu16:latest
 MAINTAINER Marco Saletta
 
 EXPOSE 8983
