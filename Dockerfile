@@ -1,4 +1,4 @@
-FROM solr_prova_root:v1
+FROM docker pull msaletta/ubuntu16
 MAINTAINER Marco Saletta
 
 EXPOSE 8983
